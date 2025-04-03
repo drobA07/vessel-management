@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VesselManagement.Api", "src\VesselManagement.Api\VesselManagement.Api.csproj", "{F8038A5A-14B9-4C45-98C6-188286F8BBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VesselManagement.Tests", "test\VesselManagement.Tests\VesselManagement.Tests.csproj", "{D714CD45-A0F3-47AA-9C28-D6FEA9CB4E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8038A5A-14B9-4C45-98C6-188286F8BBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8038A5A-14B9-4C45-98C6-188286F8BBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8038A5A-14B9-4C45-98C6-188286F8BBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8038A5A-14B9-4C45-98C6-188286F8BBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D714CD45-A0F3-47AA-9C28-D6FEA9CB4E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D714CD45-A0F3-47AA-9C28-D6FEA9CB4E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D714CD45-A0F3-47AA-9C28-D6FEA9CB4E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D714CD45-A0F3-47AA-9C28-D6FEA9CB4E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
